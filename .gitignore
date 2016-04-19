@@ -1,0 +1,38 @@
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r.
+Icon
+
+# Ignore files that arise as a result of merge conflicts
+*.orig
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcuserstate
+profile
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+# Xcode - Xcode adds this automatically in .git/info/exclude - but it is under xcuserdata which is included above
+UserInterfaceState.xcuserstate

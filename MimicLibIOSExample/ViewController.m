@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 
+#include "mimic.h"
+
 @interface ViewController ()
 
 @end
